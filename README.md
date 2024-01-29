@@ -1,4 +1,4 @@
-This tutorial builds a model with the goal of designing sensor parameters so that the robot stops in time when it detects an obstacle in its path. To achieve this goal, the model must:
+This Project builds a model with the goal of designing sensor parameters so that the robot stops in time when it detects an obstacle in its path. To achieve this goal, the model must:
 
 #Determine how quickly the robot stops when the motors stop.
 
